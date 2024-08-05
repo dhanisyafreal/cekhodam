@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #ffffff 0%, #FFEB3B 50%, #FFC107 100%);
+    background: linear-gradient(135deg, #e1deff 0%, #050030 50%, #02001f 100%);
     margin: 0;
     padding: 0;
     display: flex;
@@ -21,7 +21,7 @@ header {
 }
 
 .container {
-    background-color: #ffa60050;
+    background-color: #fffb00;
     /* Background with slight transparency */
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
